@@ -28,5 +28,6 @@ JDK 版本一定要选择18，其他版本不支持。
 添加至JDK18的依赖中。
 
 &#160;&#160;&#160;&#160; 完整如上配置，运行 Main.java文件，即可运行项目。
+
 ## 项目展示
 ![](https://github.com/ICHANER/FilmManagementSystem_Chaner/blob/main/CinemaManagement_NEW_PROJECT/src/View/homepage.png?raw=true)
