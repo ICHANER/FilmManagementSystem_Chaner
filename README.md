@@ -17,4 +17,11 @@
 - 版本控制工具：Git
 - 数据库管理工具：MySQL Workbench
 
+## 使用说明
+&#160;&#160;&#160;&#160; 将项目Git Clone 到本地后，使用 IDEA 打开，
+JDK 版本一定要选择18，其他版本不支持。
+&#160;&#160;&#160;&#160; 请确保已安装 MySQL，然后将MySQL-connector.jar
+添加至JDK18的依赖中。
+&#160;&#160;&#160;&#160; 完整如上配置，运行 Main.java文件，即可运行项目。
+## 项目展示
 ![](https://github.com/ICHANER/FilmManagementSystem_Chaner/blob/main/CinemaManagement_NEW_PROJECT/src/View/homepage.png?raw=true)
