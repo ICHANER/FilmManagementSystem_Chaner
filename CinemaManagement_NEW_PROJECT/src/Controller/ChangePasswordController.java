@@ -25,9 +25,9 @@ public class ChangePasswordController {
             int rowsUpdated = statement.executeUpdate();
 
             if (rowsUpdated > 0) {
-                System.out.println("密码已成功更新。");
+                System.out.println("密码已成功更新!");
             } else {
-                System.out.println("未找到匹配的用户记录。");
+                System.out.println("未找到匹配的用户记录!");
             }
         } catch (SQLException e) {
             e.printStackTrace();
