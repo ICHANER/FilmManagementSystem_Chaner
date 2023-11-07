@@ -146,7 +146,7 @@ public class MainView extends JFrame {
                 String userInput = JOptionPane.showInputDialog("请输入您要修改后的密码: " + "\n" + "按确认键即可修改成功");
                 // 用户输入的值将存储在 userInput 变量中
                 if (userInput != null) {    //成功修改
-                    JOptionPane.showMessageDialog(MainView.this, "您已成功修改密码为：" + "\n" + userInput + "\n" + "请牢记密码！", "密码修改成功", JOptionPane.ERROR_MESSAGE);
+                    //JOptionPane.showMessageDialog(MainView.this, "您已成功修改密码为：" + "\n" + userInput + "\n" + "请牢记密码！", "密码修改成功", JOptionPane.ERROR_MESSAGE);
                     ChangePasswordController changePasswordController = new ChangePasswordController();
                     changePasswordController.changePassword(userID, userInput);
 
