@@ -37,4 +37,5 @@ JDK 版本一定要选择18，其他版本不支持。
 &#160;&#160;&#160;&#160; 完整如上配置，运行 Main.java文件，即可运行项目。
 
 ## 项目展示
+视频展示请见阿里云盘：https://www.aliyundrive.com/s/yDHUPEwSC98  提取码：py82
 ![](https://github.com/ICHANER/FilmManagementSystem_Chaner/blob/main/CinemaManagement_NEW_PROJECT/src/View/homepage.png?raw=true)
